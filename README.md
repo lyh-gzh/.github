@@ -1,1 +1,1 @@
-# .github
+![gzh-qrcode.webp](./assets/gzh-qrcode.webp)
