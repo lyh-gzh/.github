@@ -1,1 +1,1 @@
-![gzh](https://raw.githubusercontent.com/liuyuhe666/images/main/PicGo/202412061425608.png)
+![gzh](https://cdn.jsdelivr.net/npm/liuyuhe666-images/PicGo/202412061425608.png)
